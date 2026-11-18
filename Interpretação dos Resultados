@@ -1,7 +1,11 @@
 1- Qual a diferença entre uma imagem Docker e um contêiner em execução?
+Uma imagem Docker é um modelo que contém tudo o que é necessário para executar uma aplicação. Já o contêiner é a instância dessa imagem em execução, onde a aplicação funciona de fato.
 
 2-Qual é a função de um Deployment no Kubernetes?
+O Deployment no Kubernetes gerencia os Pods, garantindo quantidade e execução automáticas.
 
 3-O que aconteceu quando você excluiu um Pod? Por que isso aconteceu?
+Quando excluí um Pod, o Kubernetes criou outro automaticamente para substituí-lo, pois o Deployment garante que a quantidade desejada de Pods permaneça em execução.
 
 4-Qual é a finalidade de um Service no Kubernetes?
+Permitem acesso e comunicação com os Pods.

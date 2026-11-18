@@ -1,0 +1,5 @@
+root@ubuntu:~$ docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+root@ubuntu:~$ curl http://localhost:8090
+curl: (7) Failed to connect to localhost port 8090 after 0 ms: Couldn't connect to server
+root@ubuntu:~$ 

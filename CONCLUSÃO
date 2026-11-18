@@ -1,0 +1,3 @@
+Descreva brevemente o que você aprendeu durante a atividade prática, destacando a utilização do Docker e do Kubernetes:
+
+Durante a atividade prática, aprendi a utilizar o Docker para criar imagens e executar contêineres, além de utilizar o Kubernetes para gerenciar aplicações, controlar Pods, realizar substituições automáticas e utilizar Services para facilitar a comunicação e o acesso às aplicações.
